@@ -68,6 +68,7 @@ Every Resource I list here is personally verified by me and most of them I have 
 * [PDF is not a probability](https://towardsdatascience.com/pdf-is-not-a-probability-5a4b8a5d9531) 📘
 * [5 Sampling algorithms every Data Scientist should know](https://mlwhiz.com/blog/2019/07/30/sampling/) 📘
 * [The 10 Statistical Techniques Data Scientists Need to Master](https://www.kdnuggets.com/2017/11/10-statistical-techniques-data-scientists-need-master.html) 📘
+* ['Intro to Statistics'](https://learn.udacity.com/courses/st101)
 
 ***
 
